@@ -11,4 +11,4 @@ Get started:
     git clone https://github.com/Guywash-Ka/BlackJackProject.git
     python3 main.py
     
-    ![image](https://user-images.githubusercontent.com/57402279/206018252-63a42347-be46-4df9-bfef-677a0ff5d819.png)
+![image](https://user-images.githubusercontent.com/57402279/206018428-cf2ef053-4dfd-463b-9fb5-57c331da3001.png)
